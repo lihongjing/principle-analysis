@@ -1,0 +1,7 @@
+-------------------------------------------------------------------------------
+Test set: com.online.springioc.SpringIocApplicationTests
+-------------------------------------------------------------------------------
+Tests run: 1, Failures: 0, Errors: 1, Skipped: 0, Time elapsed: 0.469 s <<< FAILURE! - in com.online.springioc.SpringIocApplicationTests
+contextLoads(com.online.springioc.SpringIocApplicationTests)  Time elapsed: 0.002 s  <<< ERROR!
+java.lang.NoSuchMethodError: org.springframework.boot.SpringApplication.<init>([Ljava/lang/Object;)V
+

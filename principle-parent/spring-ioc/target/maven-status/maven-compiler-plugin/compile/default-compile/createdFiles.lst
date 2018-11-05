@@ -1,0 +1,12 @@
+com\online\springioc\annotation\lable\Component.class
+com\online\springioc\annotation\assemble\Autowired.class
+com\online\springioc\beans\factory\container\LoadClassDemo.class
+com\online\springioc\logger\LoggerUtil.class
+com\online\springioc\SpringIocApplication.class
+com\online\springioc\beans\factory\BeanFactory.class
+com\online\springioc\beans\factory\assembling\BeanAssembling.class
+com\online\springioc\beans\factory\assembling\BeanObtainTagging.class
+com\online\springioc\annotation\lable\Repository.class
+com\online\springioc\beans\factory\container\BeanContainer.class
+com\online\springioc\annotation\lable\Service.class
+com\online\springioc\beans\factory\resources\BeanClassLoad.class
